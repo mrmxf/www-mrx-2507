@@ -7,8 +7,7 @@ description: "Many thanks to everyone who took part!"
 author:      MetaRex [@in](https://www.linkedin.com/company/metarex-media)
 tags:        ["collaborations",  "event"]
 summary: |
-  We have a winner!! Congratulations to Amy from France Télévision on winning a cuddly **Rexy** in our Treasure Hunt at
-  IBC 2024. 
+  We have a winner!! Congratulations to Amy from France Télévision on winning a cuddly **Rexy** in our Treasure Hunt at IBC 2024. 
   
   Many thanks to all our supporters and everyone who took part! 
 params:

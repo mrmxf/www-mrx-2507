@@ -16,25 +16,29 @@ date:      2024-08-13
 {{< hw t = "feature-group" >}}
   <!--  A feature group can have several feature blocks within it. They should self-close or can have body content -->
   {{< hw t = "feature"
-    header     = "Why a Dinosaur?"          name = header
+    header     = "Why a Dinosaur?"
+    name = header
     src        = "img/dino/mrx-logo.svg"
     alt        = "metarex logo"
     link       = "rexy/"
   />}}
   {{< hw t = "feature"
-    header     = "What is MetaRex?"         name = header
+    header     = "What is MetaRex?"
+    name = header
     src        = "dino/artwork/rexy-what-does-it-do.png"
     alt        = "dino stacking a box"
     link       = "/about/about.md"
   />}}
   {{< hw t = "feature"
-    header     = "Case Studies"             name = header
+    header     = "Case Studies"
+    name = header
     src        = "dino/artwork/rexy-case-study.png"
     alt        = "dino doing research"
     link       = "docs/studies/"
   />}}
   {{< hw t = "feature"
-    header     = "Why is it good?"          name = header
+    header     = "Why is it good?"
+    name = header
     src        = "dino/artwork/rexy-benefits.png"
     alt        = "rexy with microphone"
     link       = "faq/index.md"
@@ -51,7 +55,6 @@ date:      2024-08-13
     header     = "News Ingest"
     text       = "VC6 Case Study"
     src        = "img/vc6.png"
-      = "ui fluid image"
     alt        = "vc6 logo"
     link       = "https://vc6.metarex.media"
   />}}
@@ -59,7 +62,6 @@ date:      2024-08-13
     header     = "Save Money"
     text       = "VC6 Case Study"
     src        = "docs/studies/ai-content-at-rest/aicar.svg"
-    srcClass   = "ui fluid image"
     alt        = "monitoring-generic"                                     name = header
     link       = "docs/studies/ai-content-at-rest/"
   />}}
@@ -70,7 +72,7 @@ date:      2024-08-13
     alt        = "monitoring-generic"
     link       = "docs/studies/cloud-cost/"
   />}}
-{{< /hw>}}
+{{< /hw>}}{{</*Close feature-group*/>}}
 <!-- ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ -->
 
 <!-- ---------------------------------------------------------------------- -->
