@@ -181,7 +181,7 @@ enableMissingTranslationPlaceholders: false
 languages:
   en:
     title: MetaRex
-    languageName: English
+    label: English
     # Weight used for sorting.
     weight: 1
     params:

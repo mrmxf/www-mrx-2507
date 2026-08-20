@@ -117,7 +117,7 @@ ui:
   sidebar_search_disable: true
   # define a partial for a secondary menu e.g. for promos / payments etc.
   navbar2:
-    partial: my/navbar-2        # the name of the partial to render the menu
+    partial: hook/navbar-2      # the name of the partial to render the menu
     menu: menu2                 # the child of menus to supply data
 # --- Feedback -----------------------------------------------------------------
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
